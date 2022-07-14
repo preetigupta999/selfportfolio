@@ -392,8 +392,8 @@ section .container {
   color: #18d26e;
 }
 
-.about-me .content p:last-child {
-  margin-bottom: 0;
+p{
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
