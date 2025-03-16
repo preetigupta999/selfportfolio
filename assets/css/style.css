@@ -380,6 +380,7 @@ section .container {
 .about-me .content ul {
   list-style: none;
   padding: 0;
+  text-align:justify;
 }
 
 .about-me .content ul li {
@@ -390,6 +391,7 @@ section .container {
   font-size: 20px;
   padding-right: 2px;
   color: #18d26e;
+  text-align:justify;
 }
 
 p{
