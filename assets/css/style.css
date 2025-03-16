@@ -502,10 +502,12 @@ p{
 
 .resume .resume-item ul {
   padding-left: 20px;
+  text-align:justify;
 }
 
 .resume .resume-item ul li {
   padding-bottom: 10px;
+  text-align:justify;
 }
 
 .resume .resume-item:last-child {
